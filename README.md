@@ -62,3 +62,6 @@ This is my first published tool — thank you for checking it out!
 If anything is broken, weird, or just plain wrong, I appreciate your patience.
 
 Feel free to open an issue or suggestion — I'm learning as I go.
+
+#
+Damn I just noticed I left 1 line in Finnish - FIN"Paina Enter sulkeaksesi." -> ENG"Press Enter to close." 
