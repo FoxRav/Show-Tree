@@ -56,5 +56,7 @@ Tech Notes
 Made for developers, system admins, and AI prompt engineers who value clarity.
 
 This is my first published tool — thank you for checking it out!
-If anything is broken, weird, or just plain wrong, I appreciate your patience 
+
+If anything is broken, weird, or just plain wrong, I appreciate your patience.
+
 Feel free to open an issue or suggestion — I'm learning as I go.
