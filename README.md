@@ -2,11 +2,12 @@
 
 Show-Tree (Windows)
 
-A simple CLI tool to visualize directory structures. Great for devs and AI workflows.
+A small Windows utility that opens a terminal window and prints a folder structure using clean, color-coded ASCII output.
+
+Built for quick use: just double-click and see the structure — no command line input required.
 
 
-
-A simple tool to display folder structure as a clean ASCII tree in the Windows terminal.
+#
 
 Contents
 
@@ -25,6 +26,7 @@ treekuvake.ico – Custom icon for the executable
 •
 Readme.pdf – This documentation in PDF format
 
+#
 Usage
 
 
@@ -39,13 +41,13 @@ Usage
 - File sizes
 - File types, color-coded for clarity
 
-
+#
 Ideal Use Cases
 - Quickly inspecting folder contents
 - Creating readable overviews of IT/server infrastructures
 - Feeding a copy-pasteable folder tree to an AI assistant to help it understand the scope and structure of a project, environment, or codebase
 
-
+#
 Tech Notes
 - Works fully offline
 - No installation required
@@ -54,7 +56,7 @@ Tech Notes
 
 
 Made for developers, system admins, and AI prompt engineers who value clarity.
-
+#
 This is my first published tool — thank you for checking it out!
 
 If anything is broken, weird, or just plain wrong, I appreciate your patience.
