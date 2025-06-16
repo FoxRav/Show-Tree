@@ -12,7 +12,7 @@ Built for quick use: just double-click and see the structure — no command line
 Contents
 
 •
-Show-Tree.exe – Standalone executable tool
+Show-Tree.ex_ – Standalone executable tool (rename Show-Tree.exe) 
 
 •
 Show-Tree.ps1 – PowerShell source code
@@ -32,10 +32,11 @@ Usage
 
 
 
-1. Extract the ZIP archive
-2. Move Show-Tree.exe to the folder you want to inspect
-3. Double-click Show-Tree.exe
-4. The tool opens a terminal window and prints:
+1. Extract the 7-ZIP archive (importatnt 7-ZIP!!!)
+2. Rename Show-Tree.ex_ → Show-Tree.exe (→I don’t have certificate, poor guy)
+3. Move Show-Tree.exe to the folder you want to inspect
+4. Double-click Show-Tree.exe (If SmartScreen appears: More info → Run anyway)
+5. The tool opens a terminal window and prints:
 
 - Folder tree structure
 - File sizes
